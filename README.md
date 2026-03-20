@@ -17,4 +17,6 @@ A minimalist and functional To-Do application built with **Flutter and Dart**. T
 ## 📸 Screenshots
 | Home Screen | Add Task | Delete Action |
 | :---: | :---: | :---: |
-| [Coming Soon] | [Coming Soon] | [Coming Soon] |
+| [![WhatsApp Image 2026-03-20 at 5 07 55 PM](https://github.com/user-attachments/assets/8607949d-03b5-46a3-89f5-ff073c4bb253)
+] 
+
