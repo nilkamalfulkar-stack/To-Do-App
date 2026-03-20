@@ -18,5 +18,9 @@ A minimalist and functional To-Do application built with **Flutter and Dart**. T
 
 | Home Screen | Add Task | Delete Task | Complete Task |
 | :---: | :---: | :---: | :---: |
-| ![Home]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.54 PM.jpeg") | ![Add]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.55 PM.jpeg") | ![Delete]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.55 PM (1).jpeg") | ![Done]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.55 PM (2).jpeg") |
+| ![Home]("![WhatsApp Image 2026-03-20 at 5 07 54 PM](https://github.com/user-attachments/assets/22318eeb-0e51-404b-b1e2-21b426388366)
+") | ![Add]("![WhatsApp Image 2026-03-20 at 5 07 55 PM](https://github.com/user-attachments/assets/8517b439-7764-4e56-ae63-a9dd8ad4c481)
+") | ![Delete]("![WhatsApp Image 2026-03-20 at 5 07 55 PM (1)](https://github.com/user-attachments/assets/31672e61-8192-4564-9543-10342a6d5754)
+") | ![Done]("![WhatsApp Image 2026-03-20 at 5 07 55 PM (2)](https://github.com/user-attachments/assets/9530c140-4bc0-4a79-90b8-47e45879260e)
+") |
 
