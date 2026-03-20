@@ -14,9 +14,9 @@ A minimalist and functional To-Do application built with **Flutter and Dart**. T
 * **State Management:** Provider / SetState (mention which one you used)
 * **Database:** Hive (or mention if it's local memory)
 
-## 📸 Screenshots
-| Home Screen | Add Task | Delete Action |
-| :---: | :---: | :---: |
-| [![WhatsApp Image 2026-03-20 at 5 07 55 PM](https://github.com/user-attachments/assets/8607949d-03b5-46a3-89f5-ff073c4bb253)
-] 
+## 📸 App Screenshots
+
+| Home Screen | Add Task | Delete Task | Complete Task |
+| :---: | :---: | :---: | :---: |
+| ![Home]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.54 PM.jpeg") | ![Add]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.55 PM.jpeg") | ![Delete]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.55 PM (1).jpeg") | ![Done]("C:\Users\Lenovo\Downloads\WhatsApp Image 2026-03-20 at 5.07.55 PM (2).jpeg") |
 
