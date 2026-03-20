@@ -11,16 +11,11 @@ A minimalist and functional To-Do application built with **Flutter and Dart**. T
 ## 🚀 Tech Stack
 * **Framework:** Flutter
 * **Language:** Dart
-* **State Management:** Provider / SetState (mention which one you used)
-* **Database:** Hive (or mention if it's local memory)
-
+State Management: setState ⚡
+Database: Hive (Local Storage) 📦
 ## 📸 App Screenshots
 
 | Home Screen | Add Task | Delete Task | Complete Task |
 | :---: | :---: | :---: | :---: |
-| ![Home]("![WhatsApp Image 2026-03-20 at 5 07 54 PM](https://github.com/user-attachments/assets/22318eeb-0e51-404b-b1e2-21b426388366)
-") | ![Add]("![WhatsApp Image 2026-03-20 at 5 07 55 PM](https://github.com/user-attachments/assets/8517b439-7764-4e56-ae63-a9dd8ad4c481)
-") | ![Delete]("![WhatsApp Image 2026-03-20 at 5 07 55 PM (1)](https://github.com/user-attachments/assets/31672e61-8192-4564-9543-10342a6d5754)
-") | ![Done]("![WhatsApp Image 2026-03-20 at 5 07 55 PM (2)](https://github.com/user-attachments/assets/9530c140-4bc0-4a79-90b8-47e45879260e)
-") |
+| ![Home](https://github.com/user-attachments/assets/22318eeb-0e51-404b-b1e2-21b426388366) | ![Add](https://github.com/user-attachments/assets/8517b439-7764-4e56-ae63-a9dd8ad4c481) | ![Delete](https://github.com/user-attachments/assets/31672e61-8192-4564-9543-10342a6d5754) | ![Done](https://github.com/user-attachments/assets/9530c140-4bc0-4a79-90b8-47e45879260e) |
 
